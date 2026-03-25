@@ -1,5 +1,4 @@
 ID,Title,Abstract,Source
-1,Visual-tactile fusion learning for material recognition based on channel switching and dual cross-attention,This paper proposes a visuo-tactile fusion method using dual cross-attention to improve material recognition and handle modality corruption,IEEE
+1,Visuo-tactile fusion learning for material recognition based on channel switching and dual cross-attention,This paper proposes a visuo-tactile fusion method using dual cross-attention to improve material recognition and handle modality corruption,IEEE
 2,Multimodal Visual-Tactile Representation Learning through Self-Supervised Contrastive Pre-Training,This work introduces a self-supervised contrastive learning framework to learn robust multimodal representations from vision and tactile data without requiring large labeled datasets,ArXiv
-3,OpenCLIP: An Open Source Implementation of CLIP,This work provides an open-source implementation of CLIP for large-scale multimodal representation learning between images and text,GitHub
-4,ImageBind: One Embedding Space To Bind Them All,This paper proposes a model that binds multiple modalities including vision, audio, text, and tactile data into a unified embedding space,Meta AI
+3,Binding Touch to Everything Learning Unified Multimodal Tactile Representations,This paper proposes a unified multimodal representation aligning tactile data with vision language and audio using large scale pretraining,Meta AI

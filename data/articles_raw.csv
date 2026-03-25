@@ -10,3 +10,8 @@ ID,Title,Abstract,Source,Decision,Reason,Score
 9,A Visual-Tactile Fusion Coordinate System Alignment Method for a Mobile Hybrid Robot,Proposes a calibration method for aligning visual and tactile coordinate systems in robots,IEEE,Exclude,Not about object understanding,1
 10,Quantitative evaluation of artificial tactile feel display integrated with visual information,Evaluates tactile display systems combined with visual input,IEEE,Maybe,Hardware oriented not AI focused,2
 11,Visual Affordance Guided Tactile Material Recognition for Waste Recycling,Uses visual affordance cues and tactile sensing for material recognition in recycling tasks,IEEE,Include,Strong application of multimodal learning,5
+12,Visuotactile-RL Learning Multimodal Manipulation Policies,Studies reinforcement learning using visual and tactile inputs for object manipulation tasks,IEEE,Maybe,Focused on robotics manipulation not object properties,3
+13,Multimodal and Force-Matched Imitation Learning,Explores imitation learning using multimodal sensory inputs including force and vision,IEEE,Exclude,Not aligned with research objective,1
+14,A Visuo-Tactile Learning Approach for Robot-Assisted Bed Bathing,Applies visuo-tactile learning for assistive robotic healthcare tasks,IEEE,Exclude,Medical application not relevant,0
+15,Learning Visuotactile Skills With Two Multifingered Hands,Investigates learning of manipulation skills using visuo-tactile sensing with robotic hands,IEEE,Maybe,Focused on manipulation rather than recognition,3
+16,Visuotactile-Based Learning for Insertion With Compliant Hands,Proposes a method for insertion tasks using visuo-tactile feedback in robotics,IEEE,Maybe,Task-specific robotics application,3

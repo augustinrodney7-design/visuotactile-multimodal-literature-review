@@ -6,3 +6,7 @@ ID,Title,Abstract,Source,Decision,Reason,Score
 5,A Novel Multi-Modal One-Shot Learning Method for Texture Recognition,Proposes a multimodal one-shot learning method combining visual and tactile data for texture recognition,IEEE,Include,Relevant visuo-tactile fusion,5
 6,Object Description Using Visual and Tactile Data,Uses both visual and tactile modalities for describing object properties and material recognition,IEEE,Include,Directly relevant to object properties,5
 7,Learning Multimodal Representations for Contact-Rich Tasks,Explores multimodal learning for tasks involving tactile interaction and manipulation,IEEE,Maybe,Not focused on material recognition,3
+8,Connecting Look and Feel Associating the Visual and Tactile Properties of Physical Materials,Studies the relationship between visual and tactile properties of materials for multimodal understanding,IEEE,Include,Directly about visuo-tactile properties,5
+9,A Visual-Tactile Fusion Coordinate System Alignment Method for a Mobile Hybrid Robot,Proposes a calibration method for aligning visual and tactile coordinate systems in robots,IEEE,Exclude,Not about object understanding,1
+10,Quantitative evaluation of artificial tactile feel display integrated with visual information,Evaluates tactile display systems combined with visual input,IEEE,Maybe,Hardware oriented not AI focused,2
+11,Visual Affordance Guided Tactile Material Recognition for Waste Recycling,Uses visual affordance cues and tactile sensing for material recognition in recycling tasks,IEEE,Include,Strong application of multimodal learning,5

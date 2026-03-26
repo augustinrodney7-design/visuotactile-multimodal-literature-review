@@ -15,3 +15,15 @@ ID,Title,Abstract,Source,Decision,Reason,Score
 14,A Visuo-Tactile Learning Approach for Robot-Assisted Bed Bathing,Applies visuo-tactile learning for assistive robotic healthcare tasks,IEEE,Exclude,Medical application not relevant,0
 15,Learning Visuotactile Skills With Two Multifingered Hands,Investigates learning of manipulation skills using visuo-tactile sensing with robotic hands,IEEE,Maybe,Focused on manipulation rather than recognition,3
 16,Visuotactile-Based Learning for Insertion With Compliant Hands,Proposes a method for insertion tasks using visuo-tactile feedback in robotics,IEEE,Maybe,Task-specific robotics application,3
+17,Visual–Tactile Fusion for Object Recognition,,IEEE,Include,Core visuo-tactile fusion for object recognition,5
+18,Alignment and Multi-Scale Fusion for Visual-Tactile Object Recognition,,IEEE,Include,Strong multimodal fusion method,5
+19,A Visual-Tactile Fusion Network for Object Recognition,,IEEE,Include,Deep learning fusion network,5
+20,Partial Visual-Tactile Fused Learning for Robotic Object Recognition,,IEEE,Maybe,Robotics context but still relevant,3
+21,A Human-Like Siamese-Based Visual-Tactile Fusion Model for Object Recognition,,IEEE,Include,Advanced fusion architecture,5
+22,Visuo-Tactile Zero-Shot Object Recognition with Vision-Language Models,,IEEE,Include,Very relevant modern approach,5
+23,Recognizing Objects with a Novel Visuotactile Sensor,,IEEE,Maybe,Sensor-focused but usable,3
+24,Surface Descriptions from Vision and Touch,,IEEE,Maybe,More theoretical but relevant,3
+25,A Novel Visuo-Tactile Object Recognition Pipeline,,IEEE,Include,Good applied pipeline,4
+26,Classification Method of Visual-Tactile Fusion Dataset,,IEEE,Maybe,Dataset-focused,3
+27,UDI-3DVT: A Novel Network for 3-D Reconstruction via Uncertainty,,IEEE,Exclude,3D reconstruction not core objective,1
+28,Visual-Tactile Counterfactual Cross-Modal Weight Allocation Fusion,,IEEE,Include,Advanced multimodal fusion,4

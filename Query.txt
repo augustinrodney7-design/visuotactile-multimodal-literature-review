@@ -1,0 +1,12 @@
+
+Scopus
+( ( "tactile" OR "haptic" OR "touch sensing" OR "tactile sensing" ) AND ( "vision" OR "visual" OR "image" ) AND ( "multimodal fusion" OR "multimodal learning" OR "cross-modal" OR "visuo-tactile" ) AND ( "material recognition" OR "texture recognition" OR "object properties" OR "surface properties" OR "shape estimation" OR "physical properties" ) ) NOT ( "grasping" OR "grasp stability" OR "manipulation" OR "pose estimation" OR "robot control" OR "human perception" OR "virtual reality" OR "user study" )
+
+
+
+IEEE
+( ("tactile" OR "haptic" OR "touch sensing" OR "tactile sensing")
+AND ("vision" OR "visual" OR "image")
+AND ("multimodal fusion" OR "multimodal learning" OR "cross-modal" OR "visuo-tactile")
+AND ("material recognition" OR "texture recognition" OR "object properties" OR "surface properties" OR "shape estimation" OR "physical properties") )
+NOT ("grasping" OR "grasp stability" OR "manipulation" OR "pose estimation" OR "robot control" OR "human perception" OR "virtual reality" OR "user study")

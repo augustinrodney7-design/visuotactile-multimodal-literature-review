@@ -1,0 +1,33 @@
+IEEE:
+
+(("tactile" OR "haptic" OR "touch" ) AND ("visual" OR "vision"))
+AND
+("fusion" OR "cross-modal" OR "multimodal" OR "representation learning" OR "feature learning")
+AND
+("object recognition" OR "object classification" OR "material recognition" OR "texture" OR "surface" OR "3D shape" OR "object properties" OR "attribute")
+NOT
+("grasping" OR "manipulation" OR "grasp planning" OR "robot control" OR "trajectory" OR "pose estimation")
+
+
+
+SCOPUS:
+TITLE-ABS-KEY (
+  ("tactile" OR "haptic" OR "touch")
+  AND ("visual" OR "vision")
+)
+AND
+TITLE-ABS-KEY (
+  "fusion" OR "cross-modal" OR "cross modal" OR "multimodal" OR "multi-modal"
+  OR "representation learning" OR "feature learning"
+)
+AND
+TITLE-ABS-KEY (
+  "object recognition" OR "object classification" OR "material recognition"
+  OR "texture" OR "surface" OR "3D shape" OR "object properties" OR "attribute"
+)
+AND NOT
+TITLE-ABS-KEY (
+  "grasping" OR "manipulation" OR "grasp planning"
+  OR "robot control" OR "trajectory" OR "pose estimation"
+)
+
